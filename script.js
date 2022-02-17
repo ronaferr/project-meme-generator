@@ -21,5 +21,5 @@ inputText();
             document.querySelector('#meme-image').style.backgroundImage = `url(${upImage})`;
             console.log(upImage);
         })
-        reader.readAsDataURL(this.files[0]);
+        reader.readAsDataURL(this.files[0]); //usado esse video como ideia https://www.youtube.com/watch?v=lzK8vM_wdoY
     })
