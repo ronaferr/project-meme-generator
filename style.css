@@ -1,5 +1,19 @@
 #meme-image-container {
+    margin: 5px;
     width: 200px;
     height: 200px;
     border: 5px solid black;
+}
+#meme-image {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    z-index: 1;
+}
+#meme-text {
+    top: 30%;
+    position: absolute;
+    z-index: 2;
 }
