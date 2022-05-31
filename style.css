@@ -1,10 +1,10 @@
 body {
+    background-color: #a873af;;
     display:block;
     margin-top: 5%;
     justify-content: center;
     align-items: center;
     margin-left: 30%;
-    background-image: url('fundo.jpg');
 }
 
 h1 {
